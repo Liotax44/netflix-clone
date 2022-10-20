@@ -21,3 +21,4 @@ function Thumbmail({movie}: Props) {
   )
 }
 export default Thumbmail
+
